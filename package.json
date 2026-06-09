@@ -1,0 +1,10 @@
+{
+  "name": "codeql-prueba",
+  "version": "1.0.0",
+  "description": "Proyecto de prueba para CodeQL",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
